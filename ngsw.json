@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1614878379280,
+  "timestamp": 1614880424233,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -1347,7 +1347,7 @@
     "/assets/libs/x-editable/dist/bootstrap3-editable/img/clear.png": "9cf9c382899e5b17be2a395ca87a13dfb077f9c4",
     "/assets/libs/x-editable/dist/bootstrap3-editable/img/loading.gif": "dcabdd743fd3e9d7bd5647abeb86e66a3e6f9597",
     "/assets/libs/x-editable/dist/bootstrap3-editable/js/bootstrap-editable.min.js": "29e58239ca387bf3997ce41a63cd889871f004d8",
-    "/index.html": "cd3b580fb341a142743d5c5826e6f28179ae4965"
+    "/index.html": "38ad007fcf5f3bba2ed317aed7297a5a95ef1936"
   },
   "navigationUrls": [
     {
