@@ -1,0 +1,27 @@
+{
+  "dir": "ltr",
+  "lang": "ru",
+  "name": "ЦООМО / ББОУБ",
+  "scope": "/",
+  "display": "standalone",
+  "start_url": "/",
+  "short_name": "ЦООМО",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "description": "Центр оценки в образовании и методов обучения / Билимди баалоо жана окутуу усулдары борбору",
+  "orientation": "any",
+  "related_applications": [],
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "/assets/images/icons/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+        "src": "/assets/images/icons/android-chrome-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+    }
+  ]
+}
